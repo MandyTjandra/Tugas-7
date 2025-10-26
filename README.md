@@ -1,3 +1,8 @@
+# 🌐 Live Demo
+Anda dapat mengakses dan mencoba aplikasi ini secara langsung melalui tautan berikut: https://mandytjandra.infinityfreeapp.com/
+
+--- 
+
 # 💻 Aplikasi Pendaftaran Siswa (CRUD PHP + MySQL)
 
 Ini adalah proyek aplikasi web sederhana yang dibuat dengan PHP natif untuk mengelola data pendaftaran siswa baru. Aplikasi ini mengimplementasikan fungsionalitas **CRUD** (Create, Read, Update, Delete) secara penuh.
