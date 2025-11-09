@@ -54,7 +54,8 @@ Di sinilah Anda dapat memamerkan tampilan aplikasi Anda.
 <br>
 
 ### 4. Formulir Edit (`form-edit.php`)
-![Uploading image.png…]()
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/c085fca9-2445-4284-8c7b-451104a263ca" />
+
 > *Ketika tombol "Edit" ditekan, pengguna akan diarahkan ke formulir ini. Formulir akan terisi otomatis dengan data siswa yang ada, yang siap untuk diperbarui.*
 
 ---
